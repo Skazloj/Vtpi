@@ -7,11 +7,11 @@ https://s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/variant.m3u8
 https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_avc1/playlist.m3u8?utcstart=1766667600&profile=drmd&profile=web_auto&t=1766670784&u=1437579783&h=3xW3H%2FDIyY6iYXjnWlHIzQ%3D%3D
 #EXTINF:-1 ,TV1000 4
 https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_avc1/playlist.m3u8
-#EXTINF:-1 group-title="MyTv", 2x2 800x450
+#EXTINF:-1 group-title="MyTv800x450", 2x2
 https://a635216070-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8?profile=web_auto&useseq=t
-#EXTINF:-1 group-title="MyTv", ТНТ 800x450 
+#EXTINF:-1 group-title="MyTv800x450", ТНТ
 https://edge02d.mediavitrina.ru:443/hls-livef8/tnt/tracks-v3a1/mono.ts.m3u8?token=v2.OcSbhdAyjWxXWQlNns6Bi8xvluZ_wY0xqJ_fsSh7oE8.wKipeAqNXGEIo_sGhQR7IYZowhFp3zVMXgY5PAFEz04.1767276725.574b16a80ba9a1724f9020963152f505
-#EXTINF:-1 group-title="MyTv", СТС 800x450 
+#EXTINF:-1 group-title="MyTv800x450", СТС
 https://edge01r.mediavitrina.ru:443/hls-livef2/ctc/tracks-v3a1/mono.ts.m3u8?token=v2.-X4lBgbqPIvm0gYhdmMQEZzU716lw4XaNMaS4JmgV7c.CwYNLD0okWmHzUkdYBmYxCYnm7s66C8gGERLpFA7W6I.1767276903.d0c07b1e7b970029d9d1605f797993f2
-#EXTINF:-1 group-title="MyTv", РенТВ 800x450 
+#EXTINF:-1 group-title="MyTv800x450", РЕН ТВ
 https://edge01p.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v3a1/mono.ts.m3u8?token=v2.ubQN96B0jsYrq7F6oJUIsVuL-uJuNWe1X2RImWG0Odg.ImDIe9QJ_NzASWR_tdt-cl17z7Vp-6oZMzF2C65MoOM.1767277141.601b26773444dc726037304797bbe701
