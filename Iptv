@@ -5,7 +5,7 @@
 http://cdn.olsibtv.org:9999/channel/5eebb8a8/index.m3u8
 
 #EXTINF:-1 ,Relax tokentest
-http://cdn.olsibtv.org:9999/channel/5eebb8a8/index.m3u8?token=test
+http://srvru.play-x.ru:7799/channel/5eebb8a8/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 
 
 #EXTINF:-1 ,TV1000 1
