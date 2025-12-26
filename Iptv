@@ -77,6 +77,11 @@ http://vod.tuva.ru/kinotv/index.m3u8
 
 
 
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Шоу Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Мистер Бин
+https://fl1001.bozztv.com/ushba45/index.m3u8
 
 
-Обновлениебновление
+
+
