@@ -49,7 +49,8 @@ https://hls-02-europaplus.emgsound.ru/11/112/playlist.m3u8
 #EXTINF:-1 group-title="Радио Кубань", Energy 97.2
 https://hls-01-gpm.hostingradio.ru/energyfm495/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Record" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/250.v37.png",CHILL HOUSE
+https://hls-01-radiorecord.hostingradio.ru/record-chillhouse/96/playlist.m3u8
 
 
 
