@@ -18,6 +18,10 @@ https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_
 #EXTINF:-1 ,TV1000 4
 https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_avc1/playlist.m3u8
 
+#EXTINF:-1 group-title="MyTv800x450", НТВ
+https://user24342.clients-cdnnow.ru/hls-livef6/ntv_krd/tracks-v3a1/mono.ts.m3u8?token=v2.TvR6q94g7a1LO00ZeiyomWbqPKQE5dgvCfVruSMRTxQ.P4ii-f1E-hWL-Olp9ayKzzpu4w41kjMIa2hsjO6xGqM.1767861970.aafff47159e82f8ec9bfe94b9ad314bb
+#EXTINF:-1 group-title="MyTv800x450", Россия 1
+https://user27103.clients-cdnnow.ru/hls-livef1/russia1/tracks-v3a1/mono.ts.m3u8?token=v2.GwH7rpTTngV_MOAewIdUk2HXG8g5Z7Jjqabuvx-2DdU.RW0S5bPlUYTGEJK0lTAaBBLIPsci4lRLFhGnqaRNZ1Y.1767861810.40f133b73cadaf93cbe66576b6641aa5
 #EXTINF:-1 group-title="MyTv800x450", TV1000
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) https
 https://s24989.cdn.ngenix.net/mdrm/CH_TV1000HD/variant.m3u8?profile=drmd&profile=web_auto&t=1767251977&h=7K1uJ886lM%2FRzgHVjC4opA%3D%3D&u=1437579836
