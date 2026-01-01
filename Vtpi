@@ -19,6 +19,7 @@ https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_
 https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 group-title="MyTv800x450", TV1000
+#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
 https://s24989.cdn.ngenix.net/mdrm/CH_TV1000HD/variant.m3u8?profile=drmd&profile=web_auto&t=1767251977&h=7K1uJ886lM%2FRzgHVjC4opA%3D%3D&u=1437579836
 #EXTINF:-1 group-title="MyTv800x450", 2x2
 https://a635216070-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8?profile=web_auto&useseq=t
