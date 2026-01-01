@@ -77,11 +77,11 @@ https://a1437443109-zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/video_800x450_av
 #EXTINF:-1 group-title="MyTv800x450", 2x2
 https://a635216070-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/playlist.m3u8?profile=web_auto&useseq=t
 #EXTINF:-1 group-title="MyTv800x450", ТНТ
-https://edge02d.mediavitrina.ru:443/hls-livef8/tnt/tracks-v3a1/mono.ts.m3u8?token=v2.OcSbhdAyjWxXWQlNns6Bi8xvluZ_wY0xqJ_fsSh7oE8.wKipeAqNXGEIo_sGhQR7IYZowhFp3zVMXgY5PAFEz04.1767276725.574b16a80ba9a1724f9020963152f505
+https://edge01d.mediavitrina.ru/hls-livef7/tnt/tracks-v3a1/mono.ts.m3u8?token=v2.hWjjJMtzXT47dQPp0aHS9uReEQ-yaSQ3HREWz04OeYo.TAcJPDrfzvE9Y6NmTQz1P5-kMFtpTwDwZlmXyTlADbE.1767895425.b5c312a8f8f490e241897fa370f1a6f4
 #EXTINF:-1 group-title="MyTv800x450", СТС
-https://edge01r.mediavitrina.ru:443/hls-livef2/ctc/tracks-v3a1/mono.ts.m3u8?token=v2.-X4lBgbqPIvm0gYhdmMQEZzU716lw4XaNMaS4JmgV7c.CwYNLD0okWmHzUkdYBmYxCYnm7s66C8gGERLpFA7W6I.1767276903.d0c07b1e7b970029d9d1605f797993f2
+https://ctclive.cdnvideo.ru/hls-livef1/ctc/tracks-v3a1/mono.ts.m3u8?token=v2.uLADaevWCsnFC-0RnW0QJNLwt1Ua9szYNzEeYzQeW_A.dhyvNklNqb4V8BJLi1y_2zbGG_yiZCqDjOssonxcCUY.1767895350.5790c13b135d32fe3474d59737cc0e82
 #EXTINF:-1 group-title="MyTv800x450", РЕН ТВ
-https://edge01p.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v3a1/mono.ts.m3u8?token=v2.ubQN96B0jsYrq7F6oJUIsVuL-uJuNWe1X2RImWG0Odg.ImDIe9QJ_NzASWR_tdt-cl17z7Vp-6oZMzF2C65MoOM.1767277141.601b26773444dc726037304797bbe701
+https://nmglive.cdnvideo.ru/hls-livef2/ren-tv/tracks-v3a1/mono.ts.m3u8?token=v2.dBvCbtpnskGYdPysjafJUhhYhQnmb_V7Pwj2912DMGY.Y8g4Ikj8FsKIr_zP7ZgWmN0TS-JsfL3K4ViLiPd1tWE.1767895231.4eb404822a5b46c65e10b88cc4025337
 #EXTINF:-1 group-title="MyTv800x450", Че
 https://a635216064-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/video_800x450_avc1/playlist.m3u8?profile=web_auto&useseq=t
 
