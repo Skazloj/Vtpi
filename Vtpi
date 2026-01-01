@@ -21,7 +21,8 @@ https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_
 #EXTINF:-1 group-title="MyTv800x450", TV1000
 #EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) https
 https://s24989.cdn.ngenix.net/mdrm/CH_TV1000HD/variant.m3u8?profile=drmd&profile=web_auto&t=1767251977&h=7K1uJ886lM%2FRzgHVjC4opA%3D%3D&u=1437579836
-
+#EXTINF:-1 group-title="MyTv800x450", Первый канал
+https://user60568.clients-cdnnow.ru/hls-livef2/1tv/tracks-v3a1/mono.ts.m3u8?token=v2.nIsh7Jt_RqMx9E8___13chFV-YpfV-dis3UiENdAilE.ozKdfvJyQKd_2Ku8uS63Zbao3IqbyXZ7pzFW36WWqzg.1767861472.a9989a73f5edd8084692a8da6c7188ec
 #EXTINF:-1 group-title="MyTv800x450", Всё ТВ
 https://a1437443109-zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/video_800x450_avc1/playlist.m3u8?profile=web_auto&useseq=t
 #EXTINF:-1 group-title="MyTv800x450", 2x2
