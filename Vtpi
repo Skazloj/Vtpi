@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="📩Обновление 25.12.26🍟",
+#EXTINF:-1 group-title="📩Обновление 01.01.26🍟",
 
 #EXTINF:-1 ,Relax
 http://cdn.olsibtv.org:9999/channel/5eebb8a8/index.m3u8
@@ -17,6 +17,12 @@ https://s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/variant.m3u8
 https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_avc1/playlist.m3u8?utcstart=1766667600&profile=drmd&profile=web_auto&t=1766670784&u=1437579783&h=3xW3H%2FDIyY6iYXjnWlHIzQ%3D%3D
 #EXTINF:-1 ,TV1000 4
 https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_avc1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Kion", Че
+https://htv-rrs.mts.ru/PLTV/88888888/224/3221232100/3221232100.mpd?zoneoffset=0&servicetype=1&tenantId=703&ts=1767259069
+
+
 
 
 #EXTINF:-1 group-title="MyTv800x450", Пятница
