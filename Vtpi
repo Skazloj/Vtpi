@@ -1,4 +1,4 @@
-ВсёTM3U
+#EXTM3U
 #EXTINF:-1 group-title="📩Обновление 25.12.26🍟",
 
 #EXTINF:-1 ,Relax
@@ -19,8 +19,8 @@ https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_
 https://a787200966-s24989.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/video_1920x1080_avc1/playlist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="MyTv800x450", M3U
+https://edge02p.mediavitrina.ru/hls-livef7/friday/tracks-v3a1/mono.ts.m3u8?token=v2.TlGSD7kqzNn2xPPDibpPfCdh950RvMQighnwB_mB4l8.b7flHtGW_KG4hZrai1r_t-lZCNN0B0_VjFMdctEBAG4.1767862556.0839f7b1ba34e636c48870977db822e2
 #EXTINF:-1 group-title="MyTv800x450", Петербург-5
 https://user20917.clients-cdnnow.ru/hls-livef7/5tv/tracks-v3a1/mono.ts.m3u8?token=v2.G1rj6WoOsM3XnYGE4uNWNkyfxs2CBH-60QkS8Xcv1Vw.5rN08cOkVWE5S6r0rH9kKWR8nUfXAc4I3wG2mpASfL0.1767862382.bf596742b0e453d91bd20b10532dd117
 #EXTINF:-1 group-title="MyTv800x450", Россия К
